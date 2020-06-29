@@ -18,4 +18,6 @@ samples, guidance on mobile development, and a full API reference.
 ## Screenshot
 
 
-![Dark Theme](https://github.com/easyakowe/pricing-page-web-ui-kit/blob/master/screenshots/pricing_page_design_dark.png)
+![1](https://github.com/easyakowe/pricing-page-web-ui-kit/blob/master/screenshots/pricing_page_design_dark.png)
+
+![2](https://github.com/easyakowe/pricing-page-web-ui-kit/blob/master/screenshots/pricing%20page%20design%20light.PNG)

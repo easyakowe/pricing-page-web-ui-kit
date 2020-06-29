@@ -1,6 +1,6 @@
 # pricingpage
 
-Pricing page UI with Flutter.
+Pricing page UI with Flutter (Design gotten from www.uidesigndaily.com)
 
 ## Getting Started
 
